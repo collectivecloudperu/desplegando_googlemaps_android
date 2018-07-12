@@ -1,1 +1,2 @@
-# desplegando_googlemaps_android
+# Desplegando Google Maps en nuestra Aplicación Android
+Muchas aplicaciones, no todas pero en las que necesitamos colocar un Mapa de Google, sea para Mostrar tu ubicación o la de tu negocio necesitas saber desplegar correctamente para que funcione sin problemas ni contratiempos, logrando así darle otro nivel a tu aplicación y conseguir el objetivo que tenias en mente con un mapa de Google, en este artículo te enseñaremos como hacerlo.
